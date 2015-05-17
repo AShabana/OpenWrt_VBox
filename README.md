@@ -82,3 +82,13 @@ MultiWan support
 --------------
 http://wiki.openwrt.org/doc/uci/multiwan
 
+------------------
+IPSec VPN support :
+------------------
+http://wiki.openwrt.org/doc/howto/packet.scheduler/packet.scheduler
+
+--------------
+Traffic Control support :
+-----------------------
+http://wiki.openwrt.org/doc/howto/packet.scheduler/packet.scheduler
+
