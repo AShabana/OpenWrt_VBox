@@ -81,6 +81,7 @@ vi /etc/config/uhttpd
 MultiWan support :
 --------------
 http://wiki.openwrt.org/doc/uci/multiwan
+http://wiki.openwrt.org/doc/howto/mwan3
 
 ------------------
 IPSec VPN support :
@@ -95,4 +96,5 @@ http://wiki.openwrt.org/doc/howto/packet.scheduler/packet.scheduler
 ---------------
 ADSL Support :
 -------------
+http://wiki.openwrt.org/inbox/adsl_support
 
