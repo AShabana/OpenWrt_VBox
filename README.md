@@ -75,3 +75,10 @@ vi /etc/config/uhttpd
 # list listen_http '0.0.0.0:80'
 # list listen_http '[::]:80'
 /etc/init.d/uhttpd reload
+
+
+-------------
+MultiWan support
+--------------
+http://wiki.openwrt.org/doc/uci/multiwan
+
