@@ -78,7 +78,7 @@ vi /etc/config/uhttpd
 
 
 -------------
-MultiWan support
+MultiWan support :
 --------------
 http://wiki.openwrt.org/doc/uci/multiwan
 
@@ -91,4 +91,8 @@ http://wiki.openwrt.org/doc/howto/packet.scheduler/packet.scheduler
 Traffic Control support :
 -----------------------
 http://wiki.openwrt.org/doc/howto/packet.scheduler/packet.scheduler
+
+---------------
+ADSL Support :
+-------------
 
